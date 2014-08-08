@@ -8,10 +8,17 @@
 {
 	z-index: 1;
 	width: 1000px;
-	min-height: 495px;
-	padding-bottom: 305px;
+	min-height: 699.7597231881625px;
+	padding-top: 50px;
+	padding-bottom: 50.240276811837475px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#pu141
+{
+	width: 0.01px;
+	position: relative;
 }
 
 #u141
@@ -20,22 +27,15 @@
 	width: 150px;
 	height: 85px;
 	margin-right: -10000px;
-	margin-top: 58px;
-}
-
-#pmenuu121
-{
-	width: 0.01px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 50px;
-	left: 150px;
+	margin-top: 8px;
 }
 
 #menuu121
 {
 	z-index: 2;
 	width: 850px;
+	margin-right: -10000px;
+	left: 150px;
 }
 
 #u148
@@ -154,7 +154,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u169
+#u176
 {
 	width: 104px;
 	min-height: 100px;
@@ -163,51 +163,19 @@
 	left: 318px;
 }
 
-#u156,#u163,#u170
+#u156,#u163,#u177
 {
 	width: 104px;
-}
-
-#u173-4
-{
-	width: 104px;
-	min-height: 17px;
-	margin-right: -10000px;
-}
-
-#u163.MuseMenuActive #u165-4,#u170:hover #u173-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u170:active #u173-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u176
-{
-	width: 105px;
-	min-height: 100px;
-	margin-right: -10000px;
-	top: 41px;
-	left: 424px;
 }
 
 #u178-4
 {
-	width: 105px;
+	width: 104px;
 	min-height: 17px;
 	margin-right: -10000px;
 }
 
-#u170.MuseMenuActive #u173-4,#u177:hover #u178-4
+#u163.MuseMenuActive #u165-4,#u177:hover #u178-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -229,7 +197,7 @@
 	min-height: 100px;
 	margin-right: -10000px;
 	top: 41px;
-	left: 531px;
+	left: 424px;
 }
 
 #u185-4
@@ -261,7 +229,7 @@
 	min-height: 100px;
 	margin-right: -10000px;
 	top: 41px;
-	left: 638px;
+	left: 531px;
 }
 
 #u194-4
@@ -293,12 +261,7 @@
 	min-height: 100px;
 	margin-right: -10000px;
 	top: 41px;
-	left: 745px;
-}
-
-#u177,#u184,#u193,#u200
-{
-	width: 105px;
+	left: 638px;
 }
 
 #u202-4
@@ -324,7 +287,44 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u200.MuseMenuActive #u202-4
+#u250
+{
+	width: 105px;
+	min-height: 100px;
+	margin-right: -10000px;
+	top: 41px;
+	left: 745px;
+}
+
+#u184,#u193,#u200,#u253
+{
+	width: 105px;
+}
+
+#u254-4
+{
+	width: 105px;
+	min-height: 17px;
+	margin-right: -10000px;
+}
+
+#u200.MuseMenuActive #u202-4,#u253:hover #u254-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u253:active #u254-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u253.MuseMenuActive #u254-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -335,7 +335,7 @@
 #pu216
 {
 	width: 0.01px;
-	margin-left: 220px;
+	margin-left: 365px;
 	position: relative;
 }
 
@@ -355,8 +355,10 @@
 #u222-12
 {
 	z-index: 54;
-	width: 245px;
+	width: 250px;
 	min-height: 345px;
+	border-style: none;
+	border-color: transparent;
 	background-color: #FFFFFF;
 	background-color: rgba(255, 255, 255, 0.3);
 	-moz-border-radius: 10px;
@@ -365,7 +367,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 135px;
+	left: 145px;
 	-pie-background: rgba(255, 255, 255, 0.3);
 }
 
@@ -413,6 +415,181 @@
 #u222-6,#u222-9
 {
 	color: #333333;
+}
+
+#u276
+{
+	z-index: 68;
+	width: 250px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.3);
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	padding-top: 10px;
+	margin-left: 510px;
+	margin-top: 15px;
+	position: relative;
+	-pie-background: rgba(255, 255, 255, 0.3);
+}
+
+#u278
+{
+	z-index: 74;
+	width: 227px;
+	margin-left: 13px;
+	position: relative;
+}
+
+#u277-6
+{
+	z-index: 90;
+	width: 250px;
+	min-height: 40px;
+	color: #FFFFFF;
+	margin-top: 3px;
+	position: relative;
+}
+
+#u271
+{
+	z-index: 67;
+	width: 250px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.3);
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	padding-top: 10px;
+	margin-left: 512px;
+	margin-top: 14px;
+	position: relative;
+	-pie-background: rgba(255, 255, 255, 0.3);
+}
+
+#u273
+{
+	z-index: 72;
+	width: 227px;
+	margin-left: 13px;
+	position: relative;
+}
+
+#u272-6
+{
+	z-index: 84;
+	width: 250px;
+	min-height: 40px;
+	color: #FFFFFF;
+	margin-top: 3px;
+	position: relative;
+}
+
+#u259
+{
+	z-index: 66;
+	width: 250px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.3);
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	padding-top: 10px;
+	margin-left: 510px;
+	margin-top: 15px;
+	position: relative;
+	-pie-background: rgba(255, 255, 255, 0.3);
+}
+
+#u263
+{
+	z-index: 70;
+	width: 227px;
+	margin-left: 13px;
+	position: relative;
+}
+
+#u263_img
+{
+	padding-right: 1px;
+	padding-bottom: 1px;
+}
+
+#u268-6
+{
+	z-index: 78;
+	width: 250px;
+	min-height: 40px;
+	color: #FFFFFF;
+	margin-top: 3px;
+	position: relative;
+}
+
+#u281
+{
+	z-index: 69;
+	width: 250px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.3);
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	padding-top: 10px;
+	margin-left: 510px;
+	margin-top: 15px;
+	position: relative;
+	-pie-background: rgba(255, 255, 255, 0.3);
+}
+
+#u283
+{
+	z-index: 76;
+	width: 227px;
+	margin-left: 13px;
+	position: relative;
+}
+
+#u278_img,#u273_img,#u283_img
+{
+	padding-left: 10px;
+	padding-right: 17px;
+	padding-bottom: 1px;
+}
+
+#u282-6
+{
+	z-index: 96;
+	width: 250px;
+	min-height: 40px;
+	color: #FFFFFF;
+	margin-top: 3px;
+	position: relative;
+}
+
+#u277-2,#u272-2,#u268-2,#u282-2
+{
+	padding-left: 10px;
+	font-family: quicksand, sans-serif;
+	font-weight: 700;
+}
+
+#u277-4,#u272-4,#u268-4,#u282-4
+{
+	padding-left: 10px;
+	font-family: quicksand, sans-serif;
+	font-weight: 400;
 }
 
 #page .verticalspacer

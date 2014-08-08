@@ -1,10 +1,10 @@
 <manifest alg="2" build="314" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="62458528"/>
-    <file name="master_a-master.css" crc="387447013" ref="design:index"/>
-    <file name="design.css" crc="364557881" ref="design"/>
-    <file name="iefonts_design.css" crc="3954549664" ref="design"/>
-    <file name="index.css" crc="4121446729" ref="index"/>
+    <file name="master_a-master.css" crc="3858597361" ref="design:index"/>
+    <file name="design.css" crc="166673714" ref="design"/>
+    <file name="iefonts_design.css" crc="4165619823" ref="design"/>
+    <file name="index.css" crc="487721881" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:design"/>
@@ -19,7 +19,12 @@
     <file name="bg.jpg" crc="4087051468" ref="index:design"/>
     <file name="logo.png" crc="3897794934" ref="index"/>
     <file name="teespringlogo.jpg" crc="3913813580" ref="design"/>
+    <file name="u232-6.png" crc="3774038483" ref="index"/>
+    <file name="1351097313 front.png" crc="4163712236" ref="design"/>
+    <file name="1346056021 front.png" crc="237136868" ref="design"/>
+    <file name="design 4.png" crc="420335166" ref="design"/>
+    <file name="1251647366 front.png" crc="3815043588" ref="design"/>
   </folder>
-  <file name="index.html" crc="3927207387" mt="1406840610751" redirect="true"/>
-  <file name="design.html" crc="4257829525" mt="1406840628399" redirect="true"/>
+  <file name="index.html" crc="527451186" mt="1407038269480" redirect="true"/>
+  <file name="design.html" crc="193881099" mt="1407474734423" redirect="true"/>
 </manifest>
