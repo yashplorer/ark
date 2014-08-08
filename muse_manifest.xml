@@ -2,8 +2,8 @@
   <folder name="css">
     <file name="site_global.css" crc="62458528"/>
     <file name="master_a-master.css" crc="3858597361" ref="design:index"/>
-    <file name="design.css" crc="166673714" ref="design"/>
-    <file name="iefonts_design.css" crc="4165619823" ref="design"/>
+    <file name="design.css" crc="74180631" ref="design"/>
+    <file name="iefonts_design.css" crc="377617512" ref="design"/>
     <file name="index.css" crc="487721881" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -17,14 +17,15 @@
   </folder>
   <folder name="images">
     <file name="bg.jpg" crc="4087051468" ref="index:design"/>
-    <file name="logo.png" crc="3897794934" ref="index"/>
+    <file name="logo.png" crc="3897794934" ref="index:design"/>
     <file name="teespringlogo.jpg" crc="3913813580" ref="design"/>
     <file name="u232-6.png" crc="3774038483" ref="index"/>
     <file name="1351097313 front.png" crc="4163712236" ref="design"/>
     <file name="1346056021 front.png" crc="237136868" ref="design"/>
     <file name="design 4.png" crc="420335166" ref="design"/>
     <file name="1251647366 front.png" crc="3815043588" ref="design"/>
+    <file name="design 5-u316.jpg" crc="514225849" ref="design"/>
   </folder>
   <file name="index.html" crc="527451186" mt="1407038269480" redirect="true"/>
-  <file name="design.html" crc="193881099" mt="1407474734423" redirect="true"/>
+  <file name="design.html" crc="315647917" mt="1407479782593" redirect="true"/>
 </manifest>
