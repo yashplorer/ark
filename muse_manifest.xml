@@ -17,7 +17,7 @@
   </folder>
   <folder name="images">
     <file name="bg.jpg" crc="4087051468" ref="index:design"/>
-    <file name="logo.png" crc="3897794934" ref="index:design"/>
+    <file name="logo.png" crc="3897794934" ref="index"/>
     <file name="teespringlogo.jpg" crc="3913813580" ref="design"/>
     <file name="u232-6.png" crc="3774038483" ref="index"/>
     <file name="1351097313 front.png" crc="4163712236" ref="design"/>
@@ -25,7 +25,8 @@
     <file name="design 4.png" crc="420335166" ref="design"/>
     <file name="1251647366 front.png" crc="3815043588" ref="design"/>
     <file name="design 5-u316.jpg" crc="514225849" ref="design"/>
+    <file name="a-master-favicon.ico" crc="25069167" ref="index"/>
   </folder>
-  <file name="index.html" crc="527451186" mt="1407038269480" redirect="true"/>
-  <file name="design.html" crc="315647917" mt="1407479782593" redirect="true"/>
+  <file name="index.html" crc="347403566" mt="1407683019039" redirect="true"/>
+  <file name="design.html" crc="4288458057" mt="1407683019040" redirect="true"/>
 </manifest>
