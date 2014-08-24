@@ -108,6 +108,6 @@ body {
 
 @media screen and (max-width: 509px) {
 	.ss-form-container {
-	left: 10px;
+	padding-left: 15px;
 	}
 }
